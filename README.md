@@ -13,7 +13,7 @@
 ✔Attacker size vs defender size; outcome of battle<br>
 ✔Which commander was most successful?<br>
 
-📍 Have a look at the [**Slides**](https://docs.google.com/presentation/d/1Zv2ZZQr3FmK5S-cbKXYkvB9-08ODp8IQ49HvlhpCwCQ/edit?usp=sharing)!<br>
+📍 Have a look at the [**Project Slides**](https://docs.google.com/presentation/d/1Zv2ZZQr3FmK5S-cbKXYkvB9-08ODp8IQ49HvlhpCwCQ/edit?usp=sharing)!<br>
 
 ## About ggplot2:
 ggplot2 is an open-source data visualization package for the statistical programming language R. Created by Hadley Wickham in 2005, ggplot2 is an implementation of Leland Wilkinson's Grammar of Graphics—a general scheme for data visualization which breaks up graphs into semantic components such as scales and layers.
